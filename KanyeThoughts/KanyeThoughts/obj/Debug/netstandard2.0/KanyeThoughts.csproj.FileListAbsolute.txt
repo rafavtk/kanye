@@ -1,0 +1,16 @@
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\bin\Debug\netstandard2.0\KanyeThoughts.deps.json
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\bin\Debug\netstandard2.0\KanyeThoughts.dll
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\bin\Debug\netstandard2.0\ref\KanyeThoughts.dll
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\bin\Debug\netstandard2.0\KanyeThoughts.pdb
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.csproj.AssemblyReference.cache
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.AssemblyInfoInputs.cache
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.AssemblyInfo.cs
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.csproj.CoreCompileInputs.cache
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.sourcelink.json
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.dll
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\refint\KanyeThoughts.dll
+C:\Users\paiva\source\repos\KanyeThoughts\KanyeThoughts\KanyeThoughts\obj\Debug\netstandard2.0\KanyeThoughts.pdb

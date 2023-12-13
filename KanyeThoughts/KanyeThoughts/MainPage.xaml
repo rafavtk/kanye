@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KanyeThoughts.MainPage">
+
+    <StackLayout BackgroundColor="Black">
+        <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Image Source="fundo.jpg" Aspect="AspectFill" />
+            <Label Text="Kanye Thoughts" TextColor="white" FontSize="26" FontFamily="times new roman" AbsoluteLayout.LayoutBounds=" 0.5, 0.02, 230, 80" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            <Frame IsVisible="true" CornerRadius="20" BackgroundColor="white" AbsoluteLayout.LayoutBounds=" 0.5, 0.12, 380, 120" AbsoluteLayout.LayoutFlags="PositionProportional" >
+                <Label Text="{Binding quote}" 
+                            TextColor="Black" HorizontalOptions="Center" VerticalOptions="Center"
+                            FontFamily="times new roman" FontSize="15"/>
+            </Frame>
+
+            <Button Text="Gerar pensamento" CornerRadius="10" AbsoluteLayout.LayoutBounds=" 0.5, 0.2, 230, 80" AbsoluteLayout.LayoutFlags="PositionProportional" Clicked="Gerar" />
+        </AbsoluteLayout>
+    </StackLayout>
+
+</ContentPage>
